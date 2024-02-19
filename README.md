@@ -2,7 +2,7 @@ Olá eu sou o Mateus
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMunaro&theme=dracula&show_icons=true)
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMunaro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMunaro&layout=compact&langs_count=7&theme=dracula"/>
 
 
 
