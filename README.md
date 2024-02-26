@@ -1,5 +1,4 @@
-Hello! My name is Mateus and here are a little bit about to my work and pacion.
-thanks and enjoy!
+Hello, my name is Mateus and here you will see a little of my work and passion. Thank you and enjoy!
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusMunaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
