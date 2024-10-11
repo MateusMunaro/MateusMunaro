@@ -14,3 +14,4 @@ Hello, my name is Mateus and here you will see a little of my work and passion. 
 <img align="center" alt="Luis-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Luis-python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Luis-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Luis-c#" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C#/C#-original.svg">
