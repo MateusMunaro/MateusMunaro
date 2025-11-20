@@ -5,12 +5,6 @@ Hello, my name is Mateus and here you will see a little of my work and passion. 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMunaro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusMunaro&theme=dark&hide_border=false"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=MateusMunaro&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
 <h3 align="center">🛠 Tools & Technologies</h3>
 
 <div style="display: inline_block" align="center">
@@ -18,9 +12,6 @@ Hello, my name is Mateus and here you will see a little of my work and passion. 
   <img align="center" alt="Mateus-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  &nbsp;&nbsp;&nbsp;
-  
   <img align="center" alt="Mateus-CSharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Mateus-C" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Mateus-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
