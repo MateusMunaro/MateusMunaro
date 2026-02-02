@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5D3FD3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Mateus+Munaro!;Full-Stack+Developer;Software+Architecture+Enthusiast;.NET+%26+React+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5D3FD3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Mateus+Munaro!;Full-Stack+Developer;Researching+Merge+Tools;.NET+%26+React+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,16 +11,42 @@
 <h3 align="center">👋 About Me</h3>
 
 <p align="center">
-   Meu nome é <strong>Mateus</strong>, tenho 22 anos e sou um desenvolvedor apaixonado por construir aplicações escaláveis e interfaces modernas. Atualmente trabalho na <strong>Faz Capital</strong> e estou graduando em Ciência da Computação (Jan/2027).
+   Hello! I'm <strong>Mateus</strong>, a 22-year-old developer passionate about building scalable backends and modern interfaces. I currently work at <strong>Faz Capital</strong> and I am pursuing a degree in <strong>Systems Analysis and Development</strong> (Expected Jan/2027).
    <br/><br/>
-   Minha pesquisa e projetos recentes focam em <strong>Clean Architecture</strong>, ferramentas de versionamento de código e, mais recentemente, no uso de <strong>IA Generativa (Semantic Kernel)</strong> e renderização 3D com <strong>Three.js</strong>.
+   Beyond coding, I am deeply involved in academic research regarding <strong>Software Configuration Management</strong> and <strong>Clean Architecture</strong>. I love solving complex problems, from organizing project structures to solving a 2x2x2 Rubik's Cube.
 </p>
 
 <p align="center">
-  🌱 <strong>Atualmente explorando:</strong> Arquiteturas de microsserviços e Design Patterns avançados.<br/>
-  🔭 <strong>Projetos recentes:</strong> AI Video Builder & Voxel Game Engine.<br/>
-  🎨 <strong>Interesses:</strong> UI/UX (Glassmorphism) e Cubo Mágico (2x2x2).
+  🌱 <strong>Currently exploring:</strong> Microservices, Semantic Kernel (AI), and 3D Web (Three.js).<br/>
+  🎨 <strong>Interests:</strong> UI/UX Design (Glassmorphism) & Software Architecture.
 </p>
+
+---
+
+<h3 align="center">🔬 Academic Research</h3>
+
+<p align="center">
+  <strong>Topic: Software Merge Tools & Version Control Conflicts</strong>
+</p>
+
+<p align="center">
+  I am currently conducting a scientific initiation project focused on analyzing how different tools handle code conflicts. My work involves:
+</p>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="left">
+        📚 <strong>Systematic Literature Review:</strong> Mapped and analyzed over <strong>3,689 articles</strong> to understand the state-of-the-art in merge techniques.<br/>
+        🗂️ <strong>Taxonomy Creation:</strong> Developed a classification system for existing merge tools.<br/>
+        📊 <strong>Empirical Case Study:</strong> Conducted a comparative study of 3 major merge tools across 39 distinct conflict scenarios.<br/>
+        🏆 <strong>Recognition:</strong> Presented findings at the <em>XXXII Mostra de Iniciação Científica e Tecnológica 2025</em>.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 ---
 
@@ -50,10 +76,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://linkedin.com/in/LINKEDIN-URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
