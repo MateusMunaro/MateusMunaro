@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Junior Full-Stack Developer @ Faz Capital</h3>
+  <h3>🚀 Junior Full-Stack Developer</h3>
 </div>
 
 <br/>
